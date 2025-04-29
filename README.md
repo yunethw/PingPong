@@ -2,6 +2,8 @@
 
 This is a simple PingPong game I built using [Phaser 3](https://phaser.io/) as a starting project into simple web-based game development.
 
+![screenshot](Screenshot.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -9,7 +11,6 @@ This is a simple PingPong game I built using [Phaser 3](https://phaser.io/) as a
 - [Usage](#usage)
 - [Game Controls](#game-controls)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Overview
 This is a classic Ping-Pong game in which the player controls a paddle to bounce the ball and score points. The ball's speed increases as the score increases, making the game progressively more challenging.
